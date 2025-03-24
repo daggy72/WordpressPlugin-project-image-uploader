@@ -1,0 +1,14 @@
+.piu-preview {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 10px;
+}
+.piu-preview img {
+    width: 100px;
+    height: auto;
+    border: 1px solid #ccc;
+}
+.piu-preview input {
+    flex-grow: 1;
+}
